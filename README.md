@@ -1,9 +1,9 @@
-Game Overview
+Game Overview:
 Survive 10 weeks of tough political questions
 Maintain a popularity score above 70%
 Keep your bias score under 100 — if the journalist exposes you, the campaign collapses instantly
 
-Key Mechanics
+Key Mechanics:
 Weekly Questions – Answer difficult political questions from an AI journalist
 Two Major Meters:
 Popularity Meter – Measures how convincing your arguments are

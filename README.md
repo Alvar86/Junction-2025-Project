@@ -6,8 +6,8 @@ Keep your bias score under 100 — if the journalist exposes you, the campaign c
 Key Mechanics:
 Weekly Questions – Answer difficult political questions from an AI journalist.
 Two Major Meters:
-1. Popularity Meter – Measures how convincing your arguments are.
-2. Bias Meter – Tracks how manipulative or dishonest you appear.
+  Popularity Meter – Measures how convincing your arguments are.
+  Bias Meter – Tracks how manipulative or dishonest you appear.
 Election Map – Watch states swing between green and red as support rises or falls.
 
 Player wins if:
